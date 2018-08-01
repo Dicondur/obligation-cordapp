@@ -73,4 +73,9 @@ crashlytics-build.properties
 docs/virtualenv/
 
 java-source/out/
+java-source/bin/
+java-source/src/
+
 kotlin-source/out/
+kotlin-source/bin/
+kotlin-source/src/
